@@ -4,17 +4,19 @@ Incluye enlaces relevantes sobre documentación, repositorios, herramientas de g
 
 ## Repositorios
 
-- [Repositorio del Backend](https://github.com/sebastianzambrano/Backend-ApiRestFull-ScotiaBank.git)
-- [Repositorio del Frontend](https://github.com/sebastianzambrano/Frontend-ApiRestFull-ScotiaBank.git)
+- [Repositorio del Backend](https://github.com/sebastianzambrano/Backend-Veterinaria.git)
+- [Repositorio del Frontend](https://github.com/sebastianzambrano/Frontend-Veterinaria.git)
 
 ## Herramientas de Gestión de Proyectos
 
-**Trello**: [Enlace al tablero de Trello](https://trello.com/b/hLOZOp3C/arquitectura-sistemas-distruibudos)
+**Trello**: [Enlace al tablero de Trello](https://trello.com/b/mJLse4M7/veterinaria)
 
 ## Documentación
 
-**Documentación General**: [Enlace a los documento del proyecto en Google Drive](https://drive.google.com/drive/folders/1b3iAWZyGD2LcaX4VEOmchFUE2xqpNkEl?usp=share_link)
-**Reuniones**: [Enlace a los documentos de actas de reuniones en Google Drive](https://drive.google.com/drive/folders/1fIet7THG-r-DtHDQJv5lwHGewSyFmI4v?usp=share_link)
+**Documentación General**:
+- [Enlace a los documento del proyecto en Google Drive](https://drive.google.com/drive/folders/1V1V6e0eVUlPAP2fedGdNwnXKPNtEDBT5?usp=sharing)
+**Reuniones**:
+  -[Enlace a los documentos de actas de reuniones en Google Drive](https://drive.google.com/drive/folders/1OLOOPz-BQgNgMQQlGIdYJyN12JQgOTUU?usp=sharing)
 
 Por favor, consultar estos recursos para obtener información detallada sobre el proyecto ApiRestFull para Scotia Tech Call Center. Si necesitas acceso adicional o tienes alguna pregunta, no dudes en contactar al equipo responsable del proyecto.
 
